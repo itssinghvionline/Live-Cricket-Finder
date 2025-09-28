@@ -1,0 +1,5 @@
+{
+  "name": "Live Cricket Finder",
+  "description": "An AI-powered tool to find legally free channels and streams for live cricket matches anywhere in the world. Uses Google Search grounding for the most up-to-date broadcast information.",
+  "requestFramePermissions": []
+}
